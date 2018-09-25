@@ -1,7 +1,7 @@
 # goldieDocs
 "Examples make everything better"
 
-## Q. What if you could suppliment documentation with different types of examples?
+## Q. What if you could supplement documentation with different types of examples?
 goldieDocs aims to be a crowd sourced respository. Providing examples of JavaScript features in various formats (code snippet, GIF, text etc.).
 
 ## Getting started
