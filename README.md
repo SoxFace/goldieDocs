@@ -5,7 +5,7 @@
 goldieDocs aims to be a crowd sourced respository. Providing examples of JavaScript features in various formats (code snippet, GIF, text etc.).
 
 ## Getting started
-Starting small, we'll work towards creating examples to supplement the awesome [JavaScript for Cats](http://jsforcats.com/) and once we're a roll, work up to the [MDN References](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference).
+Starting small, we'll work towards creating examples to supplement the awesome [JavaScript for Cats](http://jsforcats.com/) and once we're on a roll, work up to the [MDN References](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference).
 
 ## Data Structure ideas
 
